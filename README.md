@@ -8,7 +8,7 @@ This repository is currently a simple but visually engaging multi-page informati
 
 Animated court background: Created entirely using SVG shapes and CSS @keyframes. I placed a player on the court dribbling, driving to the basket, jumping, shooting, and watching the ball go through the net.
 
-Player bio pages: Each player has their own custom HTML page with bulleted information about their personal journey rather than statistics — childhood, draft story, career-defining moments. For example, Kobe Bryant's page covers his childhood in Italy, his high school legend status, skipping college entirely, and being traded to the Lakers on draft night. (He's my favorite NBA player!)
+Player bio pages: Each player has their own custom HTML page with bulleted information about their personal journey rather than statistics — childhood, draft story, career-defining moments. For example, Kobe Bryant's page covers his childhood in Italy, his high school legend status, skipping college entirely, and being traded to the Lakers on draft night. (He's my favorite NBA player.)
 
 Fonts: I used Google Fonts' Advent Pro, Geist Pixel, Indie Flower, and Quicksand fonts to give the site a bold, sporty, and editorial feel.
 
