@@ -23,9 +23,11 @@ kobe.html (Kobe Bryant biography page)
 mj.html (Michael Jordan biography page)
 lbj.html (LeBron James biography page)
 curry.html (Stephen Curry biography page)
+kd.html (Kevin Durant biography page)
+
 
 <img width="1892" height="772" alt="Ekran görüntüsü 2026-07-11 210546" src="https://github.com/user-attachments/assets/87bd9679-3d19-4e93-ba17-83bb429c5210" />
 
-kd.html (Kevin Durant biography page)
+
 nba.css (referenced external stylesheet)
 README.md
